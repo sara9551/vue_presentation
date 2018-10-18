@@ -2,7 +2,7 @@
  <div>
   <div class="hello">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-white">
-    <a href="#" class="brand-logo"><img id="logo" src="/assets/logo2.png"></a>
+    <a href="#" class="brand-logo"><img id="logo" src="assets/logo2.png"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
